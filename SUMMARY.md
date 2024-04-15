@@ -8,4 +8,3 @@
 ## 2024
 
 * [Journey In Learning Application Security](2024/journey-in-learning-application-security.md)
-* [2024 Goals](2024/2024-goals.md)
