@@ -14,4 +14,4 @@ You can learn more about me from my[ <mark style="color:orange;">personal websit
 
 ## [<mark style="color:orange;">Journey In Learning Application Security</mark>](2024/journey-in-learning-application-security.md)
 
-In this blog, I document my journey of exploring application security, sharing insights, tips, and tricks that have helped me enhance my Capture The Flag (CTF) skills. It serves as a personal documentation of my learning process, covering various aspects of web application security.
+In this blog, I document my journey of exploring application security, sharing insights, tips, and tricks that have helped me enhance my Capture The Flag (CTF) skills. It serves as a personal documentation of my learning process, covering various aspects of web application security 🛡️.
