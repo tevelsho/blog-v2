@@ -8,7 +8,7 @@ description: 👋 This is where I write about information security!
 
 I love to build and break things. Cybersecurity is one of the many fields I'm passionate about.
 
-You can learn more about me from my[ <mark style="color:orange;">personal website</mark>](https://tevelsho.com).
+You can learn more about me from my [<mark style="color:orange;">personal website</mark>](https://tevelsho.com).
 
 ## \~# ls -la 2024
 
